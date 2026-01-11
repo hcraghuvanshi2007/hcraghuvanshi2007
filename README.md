@@ -1,96 +1,82 @@
-<h1 align="center">Hi 👋, I'm Himanchal</h1>
+<h1 align="center">
+  <span style="color:#7C3AED">Hi I'm Himanchal Raghuvanshi</span>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science);Aspiring+Data+Scientist+%26+Developer;Python+%7C+ML+%7C+Analytics;Building+Real-World+Projects" />
-</p>
+<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif">
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/hcraghuvanshi2007?style=for-the-badge&color=0d1117&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/hcraghuvanshi2007?style=for-the-badge&color=0d1117&labelColor=0d1117" />
-</p>
+- 🌱 I’m currently learning **Core CS and data science fundamentals: Java, Data Structures & Algorithms, and Full Stack development .** 
+- 🔭 I’m building various projects as a **Backend and Database Integrator**
 
----
-
-## 🧑‍💻 About Me
-
-```yaml
-Name: Himanchal
-Education: B.Tech Computer Science Engineering (Data Science)
-Focus:
-  - Data Science
-  - Machine Learning
-  - Data Analytics
-  - Problem Solving
-Currently Learning:
-  - Python
-  - SQL
-  - Statistics
-  - Machine Learning Fundamentals
-Goal: Build scalable, data-driven real-world solutions
----
-
-## 🎨 Developer Vibe
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-3310-4d18-bc51-7d3f77b1b6c4.gif" width="380"/>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,mysql,git,github&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hcraghuvanshi2007&show_icons=true&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hcraghuvanshi2007&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hcraghuvanshi2007&theme=tokyo-night&hide_border=true" 
-  />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:hcraghuvanshi2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/hcraghuvanshi/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/hcraghuvanshi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+  <a href="mailto:hcraghuvanshi2007@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/himanchalraghuvanshi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages & Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer" 
-  />
-</p>
+## About Me
+Hi — I'm Himanchal. Passionate about Data Science, Machine Learning, and Analytics, with a curiosity for how data drives real-world decisions. Beyond academics, I explore stock market investing and photo editing, sharpening both analytical and creative thinking.
+
+- 🔬 Interests: Data Science, Machine Learning, Software Development, Databases, Stock Market Investing, Creative Editing
+- 🏗️ Long-Term Goal: Grow as a Data Scientist / AI Engineer and contribute to solving complex problems using technology
+
+   I enjoy applying these skills to real-world projects and exploring how data can drive intelligent systems and create impact across industries like technology, finance, and research.
 ---
 
-## 🐍 Contribution Snake Animation
+## Featured Projects
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/hcraghuvanshi2007/hcraghuvanshi2007/output/github-contribution-grid-snake-dark.svg" 
-    alt="Contribution Snake Animation"
-  />
+---
+
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hcraghuvanshi2007&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcraghuvanshi2007&theme=dark&hide_border=true" alt="streak" />
 </p>
+
+---
+
+Thanks for stopping by — if you're working on an interesting dataset, ML product, or data-driven UI, I'd love to chat.  
+— Himanchal Raghuvanshi
