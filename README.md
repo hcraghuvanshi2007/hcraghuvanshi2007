@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#7C3AED">Hi I'm Himanchal Raghuvanshi</span>
+  <span style="color:#7C3AED">Hi — I'm Himanchal Raghuvanshi</span>
 </h1>
 
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif">
@@ -58,21 +58,24 @@
 ---
 
 ## About Me
-Hi — I'm Himanchal. Passionate about Data Science, Machine Learning, and Analytics, with a curiosity for how data drives real-world decisions. Beyond academics, I explore stock market investing and photo editing, sharpening both analytical and creative thinking.
+Passionate about Data Science, Machine Learning, and Analytics, with a curiosity for how data drives real-world decisions. Beyond academics, I explore stock market investing and photo editing, sharpening both analytical and creative thinking.
 
 - 🔬 Interests: Data Science, Machine Learning, Software Development, Databases, Stock Market Investing, Creative Editing
 - 🏗️ Long-Term Goal: Grow as a Data Scientist / AI Engineer and contribute to solving complex problems using technology
 
    I enjoy applying these skills to real-world projects and exploring how data can drive intelligent systems and create impact across industries like technology, finance, and research.
+
+  - **Checkout my Resume**  = [ https://drive.google.com/file/d/19ivYPq2xH-rRFy8yOCV2XF6eMbO_ErKQ/view?usp=drive_link ] 
 ---
 
 ## Featured Projects
+
+[ https://github.com/hcraghuvanshi2007/Khel-Seekho ] - A fully deployed sports learning website , Go check out.
 
 ---
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hcraghuvanshi2007&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcraghuvanshi2007&theme=dark&hide_border=true" alt="streak" />
 </p>
 
