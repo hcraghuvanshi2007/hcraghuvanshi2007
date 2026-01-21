@@ -77,8 +77,9 @@ Passionate about Data Science, Machine Learning, and Analytics, with a curiosity
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcraghuvanshi2007&theme=dark&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=hcraghuvanshi2007&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
