@@ -83,10 +83,18 @@ Passionate about Data Science, Machine Learning, and Analytics, with a curiosity
        alt="Top Languages" />
 </p>
 
+
+
+
 <p>
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=hcraghuvanshi2007&show_icons=true&locale=en"
        alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/hcraghuvanshi2007/hcraghuvanshi2007/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 <p>
