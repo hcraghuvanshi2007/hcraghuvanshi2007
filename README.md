@@ -76,9 +76,28 @@ Passionate about Data Science, Machine Learning, and Analytics, with a curiosity
 ---
 
 ## GitHub Stats
+
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=hcraghuvanshi2007&show_icons=true&locale=en&layout=compact"
+       alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=hcraghuvanshi2007&show_icons=true&locale=en"
+       alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=hcraghuvanshi2007&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophy" />
+</p>
+
+
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=hcraghuvanshi2007&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
 ---
