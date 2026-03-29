@@ -4,8 +4,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif">
 
-- 🌱 I’m currently learning **Core CS and data science fundamentals: Java, Data Structures & Algorithms, and Full Stack development .** 
-- 🔭 I’m building various projects as a **Backend and Database Integrator**
+- 🌱 I'm currently learning **Core CS and data science fundamentals: Java, Data Structures & Algorithms, and Full Stack development .** 
+- 🔭 I'm building various projects as a **Backend and Database Integrator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -79,34 +79,33 @@ Passionate about Data Science, Machine Learning, and Analytics, with a curiosity
 
 <p>
   <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=hcraghuvanshi2007&show_icons=true&locale=en&layout=compact"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=hcraghuvanshi2007&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"
        alt="Top Languages" />
 </p>
 
-
-
-
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=hcraghuvanshi2007&show_icons=true&locale=en"
+       src="https://github-readme-stats.vercel.app/api?username=hcraghuvanshi2007&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true"
        alt="GitHub Stats" />
+</p>
+
+<br clear="left"/>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=hcraghuvanshi2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=hcraghuvanshi2007&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophy" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hcraghuvanshi2007&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p>
   <img src="https://raw.githubusercontent.com/hcraghuvanshi2007/hcraghuvanshi2007/output/github-contribution-grid-snake.svg" />
-
 </p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=hcraghuvanshi2007&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophy" />
-</p>
-
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=hcraghuvanshi2007&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 
 ---
 
